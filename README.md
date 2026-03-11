@@ -3,11 +3,14 @@ This is the official PyTorch implementation of the paper XXX
 
 
 Requirements
-we use single RTX3090 24G GPU for training and evaluation.
+we use NVIDIA L40 GPU for training and evaluation.
 
 > pytorch 1.9.0
+> 
 > torchvision 0.10.0
+>
 > prettytable
+>
 > easydict
 
 
