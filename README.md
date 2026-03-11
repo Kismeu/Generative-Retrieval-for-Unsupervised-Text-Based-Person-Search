@@ -1,8 +1,2 @@
 # Generative-Retrieval-for-Unsupervised-Text-Based-Person-Search
-Text-based person search (TBPS) aims to retrieve images of a target person from a large image gallery based on a given natural language description. Most existing methods rely on supervised learning with manually annotated image-text pairs.
-In this paper, we explore unsupervised TBPS, with only unlabeled images. 
-We propose GTR$^+$, a two-stage generation-then-retrieval framework.
-In the generation stage, we introduce a tiered description generation framework designed to produce fine-grained and stylistically diverse textual descriptions through a three-tier sequential process. The base tier leverages an automated question-and-answer mechanism to generate basic visual attribute descriptions; the intermediate tier enhances fine-grained detail using an inter-sample contrastive mechanism; the advanced tier further enriches textual diversity via a stylized expansion mechanism.
-In the retrieval stage, to mitigate the impact of noisy pseudo texts, we develop an adaptive confidence-weighted retrieval learning framework. We model image-text pairs as clean or noisy using a Gaussian Mixture Model, calibrated by real-time image-text similarity and static text generation probability from the prior stage, yielding adaptive sample weights during training.
-Beyond that, we also contribute LargeFine-Person, a large-scale TBPS dataset with high-quality, fine-grained, and diverse textual annotations, enabling a practical and generalizable TBPS pre-training benchmark under unsupervised setting.
-Experiments on multiple TBPS benchmarks demonstrate the effectiveness and generalization of both GTR$^+$ and LargeFine-Person. Code and dataset will be publicly released.
+This is the official PyTorch implementation of the paper XXX 
