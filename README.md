@@ -1,6 +1,8 @@
 # GTR+：Generative Retrieval for Unsupervised Text Based Person Search
 This is the official PyTorch implementation of the paper XXX 
 
+## Model Structure
+
 
 ## Requirements
 We use NVIDIA L40 GPU for training and evaluation.
@@ -10,5 +12,4 @@ More details are in [**requirements.txt**](https://github.com/Kismeu/Generative-
 ## Prepare Datasets
 Download the [**CUHK-PEDES**](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description) dataset, [**ICFG-PEDES**](https://github.com/zifyloo/SSAN) dataset and [**RSTPReid**](https://github.com/NjtechCVLab/RSTPReid-Dataset) dataset.
 
-## Examples
-<iframe src="./largefine.pdf" width="100%" height="600px"></iframe>
+![The structure of GTR+ model](model-structure.png)
