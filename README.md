@@ -2,7 +2,7 @@
 This is the official PyTorch implementation of the paper XXX 
 
 ## Model Structure
-
+![The structure of GTR+ model](model-structure.png)
 
 ## Requirements
 We use NVIDIA L40 GPU for training and evaluation.
@@ -12,4 +12,4 @@ More details are in [**requirements.txt**](https://github.com/Kismeu/Generative-
 ## Prepare Datasets
 Download the [**CUHK-PEDES**](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description) dataset, [**ICFG-PEDES**](https://github.com/zifyloo/SSAN) dataset and [**RSTPReid**](https://github.com/NjtechCVLab/RSTPReid-Dataset) dataset.
 
-![The structure of GTR+ model](model-structure.png)
+
