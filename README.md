@@ -1,5 +1,5 @@
 # GTR+：Generative Retrieval for Unsupervised Text Based Person Search
-This is the official PyTorch implementation of the paper XXX 
+This is the official PyTorch implementation of the paper Generative Retrieval for Unsupervised Text-Based Person Search (XXXX XXXX) [Link]()
 
 ## Model Structure
 ![The structure of GTR+ model](model-structure.png)
@@ -11,6 +11,26 @@ More details are in [**requirements.txt**](https://github.com/Kismeu/Generative-
 
 ## Prepare Datasets
 Download the [**CUHK-PEDES**](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description) dataset, [**ICFG-PEDES**](https://github.com/zifyloo/SSAN) dataset and [**RSTPReid**](https://github.com/NjtechCVLab/RSTPReid-Dataset) dataset.
+
+```
+|-- your dataset root dir/
+|   |-- <CUHK-PEDES>/
+|       |-- imgs
+|            |-- cam_a
+|            |-- cam_b
+|            |-- ...
+|       |-- reid_raw.json
+|
+|   |-- <ICFG-PEDES>/
+|       |-- imgs
+|            |-- test
+|            |-- train 
+|       |-- ICFG_PEDES.json
+|
+|   |-- <RSTPReid>/
+|       |-- imgs
+|       |-- data_captions.json
+```
 
 ### LargeFine-Person Dataset
 Download Our pretrain dataset [**LargeFine-Person**]()
