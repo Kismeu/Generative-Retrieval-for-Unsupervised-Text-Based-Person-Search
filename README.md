@@ -1,7 +1,8 @@
 # GTR+：Generative Retrieval for Unsupervised Text Based Person Search
-This is the official PyTorch implementation of the paper Generative Retrieval for Unsupervised Text-Based Person Search (XXXX XXXX) [Link]()
+This is the official PyTorch implementation of the paper **Generative Retrieval for Unsupervised Text-Based Person Search** (XXXX XXXX) [Link]()
 
-## Model Structure
+## Highlights
+We propose GTR+ for unsupervised text-based person search, removing the need for expensive human-annotated descriptions. Our method combines a three-tier description generation framework for producing fine-grained and diverse pseudo texts with an adaptive confidence-weighted retrieval learning framework that alleviates the effect of noisy supervision. We also release LargeFine-Person, a large-scale benchmark for unsupervised TBPS pre-training.
 ![The structure of GTR+ model](model-structure.png)
 
 ## Requirements
