@@ -35,7 +35,7 @@ Download the [**CUHK-PEDES**](https://github.com/ShuangLI59/Person-Search-with-N
 
 ### LargeFine-Person Dataset
 Download Our pretrain dataset [**LargeFine-Person**]()
-![Samples of our LargeFine-Person Dataset](LargeFine-samples.png)
+![Samples of our LargeFine-Person Dataset](figs/LargeFine-samples.png)
 
 ## More Examples
-![More Examples](examples.png)
+![More Examples](figs/examples.png)
