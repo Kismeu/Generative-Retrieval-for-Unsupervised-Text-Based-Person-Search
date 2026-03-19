@@ -2,6 +2,9 @@
 
 This is the official PyTorch implementation of our paper **Generative Retrieval for Unsupervised Text-Based Person Search**. The paper link will be released soon.
 
+## Updates
+- [2026-3-20] Initial release of code.
+- ...
 ## Highlights
 
 We propose **GTR+** for unsupervised text-based person search, removing the need for expensive human-annotated descriptions. GTR+ combines:
@@ -11,10 +14,6 @@ We propose **GTR+** for unsupervised text-based person search, removing the need
 
 ![The structure of GTR+ model](figs/model-structure.png)
 
-## Updates
-
-- [2026-3-20] Initial release of code.
-- ...
 
 ## Requirements
 
