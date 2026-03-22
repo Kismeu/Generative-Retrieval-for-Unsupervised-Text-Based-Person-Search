@@ -116,7 +116,7 @@ Download our pre-training dataset  [**LargeFine-Person**](https://drive.google.c
 |      [GAAP](https://www.ijcai.org/proceedings/2024/116)      | [BLIP](https://github.com/salesforce/BLIP) |             |     44.45 |     65.15 |     75.30 | 31.21     |                              /                               |
 | [MUMA](https://ojs.aaai.org/index.php/AAAI/article/view/32543 ) | [BLIP](https://github.com/salesforce/BLIP) |             |     54.35 |     76.05 |     83.65 | 40.50     |                              /                               |
 |                           **GTR+**                           | [BLIP](https://github.com/salesforce/BLIP) |             | **54.75** | **75.15** | **83.50** | **43.79** | **[Download](https://drive.google.com/file/d/1Dz_9rLgGPeCP4yLYH-7fFF2dYiBX3Z-W/view?usp=drive_link)** |
-|                    **GTR+ (Pre-trained)**                    | [BLIP](https://github.com/salesforce/BLIP) |      ✗      | **52.00** | **74.05** | **82.35** | **38.72** |                     [Download](你的链接)                     |
+|                    **GTR+ (Pre-trained)**                    | [BLIP](https://github.com/salesforce/BLIP) |      ✗      | **52.00** | **74.05** | **82.35** | **38.72** | **[Download](https://drive.google.com/file/d/11A8LlAsA_2kFJK5bcJS5HnF8BrDVpXr8/view?usp=drive_link)**                     |
 |                    **GTR+ (Pre-trained)**                    | [BLIP](https://github.com/salesforce/BLIP) |      ✓      | **55.70** | **76.55** | **84.25** | **43.86** | **[Download](https://drive.google.com/file/d/1R5Y9P5-KJJtr393q6kGcQIU5EIo6ZXmi/view?usp=drive_link)** |
 
 
